@@ -17,7 +17,7 @@ public class AdvancedFactorialTest {
     // bộ data chuẩn bị sẵn
     @Parameterized.Parameters
     public static Object[][] initData() {
-        return new Integer[][]{{0, 1}, {1, 1}, {3, 6}, {5, 120}};
+        return new Integer[][]{{0, 1}, {1, 1}, {3, 6}, {5, 120}, {6, 7720}, {0, 1}};
     }
 
     MathUtilDemo factorial = new MathUtilDemo();
