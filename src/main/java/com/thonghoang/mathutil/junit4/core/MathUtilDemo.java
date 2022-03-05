@@ -1,4 +1,4 @@
-package com.nlu.mathutil.junit4.core;
+package com.thonghoang.mathutil.junit4.core;
 
 public class MathUtilDemo {
 //    public static long getFactorial(int n) {
